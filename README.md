@@ -13,13 +13,13 @@ All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1zVxcBHFnb
 
 <!-- 🖥 Teams meeting URL: ❔ -->
 
-  - Student 1: ❔
+  - Student 1: Salma EL ALOUANY
 
-  - Student 2: ❔
+  - Student 2: Mehdi EL BIAD
 
-  - Student 3: ❔
+  - Student 3: Ghaydae EL ATER
 
-  - Student 4: ❔
+  - Student 4: Omar EL FAKIR
 
 ## Getting Started
 
